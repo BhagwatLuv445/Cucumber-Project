@@ -10,9 +10,9 @@ Scenario Outline: Centigrade to Fahrenheit Converter through standard java progr
 	
 	Examples:
 	|	centigradeValue	|	FahrenheitValue	|
-	|	28.5			|		83.3		|
-	|	30.0			|		86.0		|
-	|	56.0			|		132.8		|
+	|	45.0			|		113.0		|
+	|	22.0			|		71.6		|
+	|	40.0			|		104.0		|
 
 @ConverterApplication
 Scenario Outline: Centigrade to Fahrenheit Converter through Application
@@ -28,6 +28,6 @@ Scenario Outline: Centigrade to Fahrenheit Converter through Application
 	
 	Examples:
 	|	convertorApplication 														|	centigradeValue	|	FahrenheitValue	|
-	|	https://www.rapidtables.com/convert/temperature/celsius-to-fahrenheit.html	|	28.5			|		83.3		|
-	|	https://www.rapidtables.com/convert/temperature/celsius-to-fahrenheit.html	|	30.0			|		86.0		|
-	|	https://www.rapidtables.com/convert/temperature/celsius-to-fahrenheit.html	|	56.0			|		132.8		|
+	|	https://www.rapidtables.com/convert/temperature/celsius-to-fahrenheit.html	|	45.0			|		113.0		|
+	|	https://www.rapidtables.com/convert/temperature/celsius-to-fahrenheit.html	|	22.0			|		71.6		|
+	|	https://www.rapidtables.com/convert/temperature/celsius-to-fahrenheit.html	|	40.0			|		104.0		|

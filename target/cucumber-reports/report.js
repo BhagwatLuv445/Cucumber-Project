@@ -44,20 +44,20 @@ formatter.examples({
     },
     {
       "cells": [
-        "28.5",
-        "83.3"
+        "45.0",
+        "113.0"
       ]
     },
     {
       "cells": [
-        "30.0",
-        "86.0"
+        "22.0",
+        "71.6"
       ]
     },
     {
       "cells": [
-        "56.0",
-        "132.8"
+        "40.0",
+        "104.0"
       ]
     }
   ]
@@ -76,7 +76,7 @@ formatter.scenario({
   ]
 });
 formatter.step({
-  "name": "open convertor and give 28.5",
+  "name": "open convertor and give 45.0",
   "keyword": "Given "
 });
 formatter.match({
@@ -96,7 +96,7 @@ formatter.result({
   "status": "passed"
 });
 formatter.step({
-  "name": "check 83.3 in output",
+  "name": "check 113.0 in output",
   "keyword": "Then "
 });
 formatter.match({
@@ -119,7 +119,7 @@ formatter.scenario({
   ]
 });
 formatter.step({
-  "name": "open convertor and give 30.0",
+  "name": "open convertor and give 22.0",
   "keyword": "Given "
 });
 formatter.match({
@@ -139,7 +139,7 @@ formatter.result({
   "status": "passed"
 });
 formatter.step({
-  "name": "check 86.0 in output",
+  "name": "check 71.6 in output",
   "keyword": "Then "
 });
 formatter.match({
@@ -162,7 +162,7 @@ formatter.scenario({
   ]
 });
 formatter.step({
-  "name": "open convertor and give 56.0",
+  "name": "open convertor and give 40.0",
   "keyword": "Given "
 });
 formatter.match({
@@ -182,7 +182,7 @@ formatter.result({
   "status": "passed"
 });
 formatter.step({
-  "name": "check 132.8 in output",
+  "name": "check 104.0 in output",
   "keyword": "Then "
 });
 formatter.match({
@@ -239,22 +239,22 @@ formatter.examples({
     {
       "cells": [
         "https://www.rapidtables.com/convert/temperature/celsius-to-fahrenheit.html",
-        "28.5",
-        "83.3"
+        "45.0",
+        "113.0"
       ]
     },
     {
       "cells": [
         "https://www.rapidtables.com/convert/temperature/celsius-to-fahrenheit.html",
-        "30.0",
-        "86.0"
+        "22.0",
+        "71.6"
       ]
     },
     {
       "cells": [
         "https://www.rapidtables.com/convert/temperature/celsius-to-fahrenheit.html",
-        "56.0",
-        "132.8"
+        "40.0",
+        "104.0"
       ]
     }
   ]
@@ -299,7 +299,7 @@ formatter.result({
   "status": "passed"
 });
 formatter.step({
-  "name": "provide 28.5 value",
+  "name": "provide 45.0 value",
   "keyword": "When "
 });
 formatter.match({
@@ -319,7 +319,7 @@ formatter.result({
   "status": "passed"
 });
 formatter.step({
-  "name": "check 83.3 in output box",
+  "name": "check 113.0 in output box",
   "keyword": "Then "
 });
 formatter.match({
@@ -371,7 +371,7 @@ formatter.result({
   "status": "passed"
 });
 formatter.step({
-  "name": "provide 30.0 value",
+  "name": "provide 22.0 value",
   "keyword": "When "
 });
 formatter.match({
@@ -391,7 +391,7 @@ formatter.result({
   "status": "passed"
 });
 formatter.step({
-  "name": "check 86.0 in output box",
+  "name": "check 71.6 in output box",
   "keyword": "Then "
 });
 formatter.match({
@@ -443,7 +443,7 @@ formatter.result({
   "status": "passed"
 });
 formatter.step({
-  "name": "provide 56.0 value",
+  "name": "provide 40.0 value",
   "keyword": "When "
 });
 formatter.match({
@@ -463,7 +463,7 @@ formatter.result({
   "status": "passed"
 });
 formatter.step({
-  "name": "check 132.8 in output box",
+  "name": "check 104.0 in output box",
   "keyword": "Then "
 });
 formatter.match({
