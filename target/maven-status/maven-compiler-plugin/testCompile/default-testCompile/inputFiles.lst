@@ -1,8 +1,8 @@
-C:\Users\DELL\eclipse-workspace\FinalProject\src\test\java\com\mindtree\pages\TemperatureConvertorApplicationPage.java
-C:\Users\DELL\eclipse-workspace\FinalProject\src\test\java\com\mindtree\pages\RestApiPage.java
-C:\Users\DELL\eclipse-workspace\FinalProject\src\test\java\com\mindtree\runner\Runner.java
-C:\Users\DELL\eclipse-workspace\FinalProject\src\test\java\com\mindtree\pages\TemperatureConvertorPage.java
-C:\Users\DELL\eclipse-workspace\FinalProject\src\test\java\com\mindtree\stepDefinition\TemperatureConvertorApplicationStepDef.java
-C:\Users\DELL\eclipse-workspace\FinalProject\src\test\java\com\mindtree\stepDefinition\TemperatureConvertorStepDef.java
-C:\Users\DELL\eclipse-workspace\FinalProject\src\test\java\com\mindtree\commonUtils\CommonUtils.java
-C:\Users\DELL\eclipse-workspace\FinalProject\src\test\java\com\mindtree\stepDefinition\RestApiStepDef.java
+C:\Users\DELL\eclipse-workspace\BDD-TRAINING\src\test\java\com\mindtree\runner\Runner.java
+C:\Users\DELL\eclipse-workspace\BDD-TRAINING\src\test\java\com\mindtree\stepDefinition\TemperatureConvertorApplicationStepDef.java
+C:\Users\DELL\eclipse-workspace\BDD-TRAINING\src\test\java\com\mindtree\stepDefinition\RestApiStepDef.java
+C:\Users\DELL\eclipse-workspace\BDD-TRAINING\src\test\java\com\mindtree\commonUtils\CommonUtils.java
+C:\Users\DELL\eclipse-workspace\BDD-TRAINING\src\test\java\com\mindtree\pages\TemperatureConvertorApplicationPage.java
+C:\Users\DELL\eclipse-workspace\BDD-TRAINING\src\test\java\com\mindtree\pages\TemperatureConvertorPage.java
+C:\Users\DELL\eclipse-workspace\BDD-TRAINING\src\test\java\com\mindtree\pages\RestApiPage.java
+C:\Users\DELL\eclipse-workspace\BDD-TRAINING\src\test\java\com\mindtree\stepDefinition\TemperatureConvertorStepDef.java
