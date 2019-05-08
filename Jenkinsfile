@@ -3,19 +3,19 @@ pipeline{
   
   stages{
     stage(compile){
-      step{
+      steps{
         sh 'mvn clean compile'
       }
     }
     
     stage(test){
-      step{
+      steps{
         sh 'mvn test'
       }
     }
     
     stage(deploy){
-      step{
+      steps{
         sh 'mvn deploy'
       }
     }
